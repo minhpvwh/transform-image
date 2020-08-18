@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Arduino_Nano</folder>
+	<filename>arduino-nano-ch340-gia-re.png</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Arduino_Nano/arduino-nano-ch340-gia-re.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arduino_Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>62</ymin>
+			<xmax>766</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

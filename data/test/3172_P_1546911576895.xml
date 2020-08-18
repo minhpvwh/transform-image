@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Arduino_Nano</folder>
+	<filename>3172_P_1546911576895.jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Arduino_Nano/3172_P_1546911576895.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Arduino_Nano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>140</ymin>
+			<xmax>707</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+</annotation>

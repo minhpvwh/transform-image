@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Heltec_ESP32_Lora</folder>
+	<filename>415z+tGdkZL.jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Heltec_ESP32_Lora/415z+tGdkZL.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heltec_ESP32_Lora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>171</ymin>
+			<xmax>606</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

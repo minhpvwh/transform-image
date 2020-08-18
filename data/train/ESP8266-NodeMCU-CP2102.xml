@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ESP8266</folder>
+	<filename>ESP8266-NodeMCU-CP2102.jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/ESP8266/ESP8266-NodeMCU-CP2102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ESP8266</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>118</ymin>
+			<xmax>709</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

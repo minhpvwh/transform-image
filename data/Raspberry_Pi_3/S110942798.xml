@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raspberry_Pi_3</folder>
+	<filename>S110942798.jpeg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Raspberry_Pi_3/S110942798.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry_Pi_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>114</ymin>
+			<xmax>424</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

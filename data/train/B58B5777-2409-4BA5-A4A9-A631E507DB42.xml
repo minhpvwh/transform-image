@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raspberry_Pi_3</folder>
+	<filename>B58B5777-2409-4BA5-A4A9-A631E507DB42.jpeg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Raspberry_Pi_3/B58B5777-2409-4BA5-A4A9-A631E507DB42.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry_Pi_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>266</ymin>
+			<xmax>759</xmax>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+</annotation>

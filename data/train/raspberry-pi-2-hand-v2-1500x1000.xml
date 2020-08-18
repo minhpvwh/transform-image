@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raspberry_Pi_3</folder>
+	<filename>raspberry-pi-2-hand-v2-1500x1000.jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Raspberry_Pi_3/raspberry-pi-2-hand-v2-1500x1000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry_Pi_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>68</ymin>
+			<xmax>539</xmax>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

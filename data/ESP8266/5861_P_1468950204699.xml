@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ESP8266</folder>
+	<filename>5861_P_1468950204699.jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/ESP8266/5861_P_1468950204699.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ESP8266</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>104</ymin>
+			<xmax>579</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

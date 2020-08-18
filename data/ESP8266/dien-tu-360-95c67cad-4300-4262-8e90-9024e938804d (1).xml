@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ESP8266</folder>
+	<filename>dien-tu-360-95c67cad-4300-4262-8e90-9024e938804d (1).jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/ESP8266/dien-tu-360-95c67cad-4300-4262-8e90-9024e938804d (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ESP8266</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>97</ymin>
+			<xmax>795</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

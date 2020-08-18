@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Heltec_ESP32_Lora</folder>
+	<filename>images.jpeg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Heltec_ESP32_Lora/images.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Heltec_ESP32_Lora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>119</ymin>
+			<xmax>758</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+</annotation>

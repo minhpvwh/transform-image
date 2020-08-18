@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Raspberry_Pi_3</folder>
+	<filename>cach-khoi-dong-raspberry-pi-3-tu-usba.jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/Raspberry_Pi_3/cach-khoi-dong-raspberry-pi-3-tu-usba.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Raspberry_Pi_3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>94</ymin>
+			<xmax>573</xmax>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ESP8266</folder>
+	<filename>module-nodemcu-iot-esp8266-esp-12e-cp2102.jpg</filename>
+	<path>/home/minhpv/Desktop/own-tf/data/ESP8266/module-nodemcu-iot-esp8266-esp-12e-cp2102.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ESP8266</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>33</ymin>
+			<xmax>756</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>
